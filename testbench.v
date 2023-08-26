@@ -1,4 +1,4 @@
-//Testbench for MIPS32 pipeline
+ //Testbench for MIPS32 pipeline
 
 
   module test_mips32;
