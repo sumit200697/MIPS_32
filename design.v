@@ -1,4 +1,4 @@
-// Verilog implementation of MIPS32 pipeline
+ // Verilog implementation of MIPS32 pipeline
 
 module pipe_MIPS32 (clk1, clk2);
                     
